@@ -39,7 +39,6 @@ cd ../TheOdinProject/ && /
 mkdir odin_foundations/ && /
 echo "odin_foundations directory made." && /
 echo "All coding directories made. code-directories script complete." && /
-echo "You may now move onto initiating or cloning git repositories." && /
-echo "(per crucem ad ludem)"
+echo "You may now move onto initiating or cloning git repositories."
 
 exit 0
