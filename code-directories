@@ -12,7 +12,7 @@
 mkdir ./Coding/ && /
 cd Coding/ && /
 echo "Main coding directory made." && /
-mkdir ./ACC-Bootcamp ./active_websites ./aux_git_repos ./CPP ./Cryptography ./Linux ./myWebsite ./Programming_Hero ./TheOdinProject && /
+mkdir ./ACC-Bootcamp ./active_websites ./aux_git_repos ./CPP ./Cryptography ./Linux ./myWebsite ./Programming_Hero ./TheOdinProject ./repoTesting && /
 echo "Secondary coding directories made." && /
 cd ./ACC-Bootcamp/ && /
 mkdir Promineo_Tech/ && /
