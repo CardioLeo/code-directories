@@ -9,12 +9,12 @@
 # of my regular machines.
 # Usage: code-directories
 
-mkdir ./Coding/ && /
+mkdir Coding/ && /
 cd Coding/ && /
 echo "Main coding directory made." && /
-mkdir ./ACC-Bootcamp ./active_websites ./aux_git_repos ./CPP ./Cryptography ./Linux ./myWebsite ./Programming_Hero ./TheOdinProject ./repoTesting ./WebDevGen && /
+mkdir ACC-Bootcamp active_websites aux_git_repos CPP Cryptography Linux myWebsite Programming_Hero TheOdinProject repoTesting WebDevGen && /
 echo "Secondary coding directories made." && /
-cd ./ACC-Bootcamp/ && /
+cd ACC-Bootcamp/ && /
 mkdir Promineo_Tech/ && /
 echo "Promineo_Tech directory made." && /
 cd Promineo_Tech/ && /
@@ -39,9 +39,9 @@ cd ../TheOdinProject/ && /
 mkdir odin_foundations/ && /
 echo "odin_foundations directory made." && /
 cd ../WebDevGen/ && /
-mkdir /React/ && /
-cd ./React/ && /
-mkdir /SoloLearn/ && /
+mkdir React/ && /
+cd React/ && /
+mkdir SoloLearn/ && /
 echo "React and sub-react directories made." && /
 echo "All coding directories made. code-directories script complete." && /
 echo "You may now move onto initiating or cloning git repositories."
